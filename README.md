@@ -1,5 +1,5 @@
 # sql-booster-study
-Comprehensive repository documenting SQL skill development, focusing on transforming theoretical knowledge into actionable database expertise
+*Comprehensive repository documenting SQL skill development, focusing on transforming theoretical knowledge into actionable database expertise*
 📚 SQL실력을 boosting 하기 위한 저장소입니다. 
 
 
