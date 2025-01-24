@@ -1,7 +1,6 @@
 # sql-booster-study
 *Comprehensive repository documenting SQL skill development, focusing on transforming theoretical knowledge into actionable database expertise*
-📚 SQL실력을 boosting 하기 위한 저장소입니다. 
-
+📚 SQL실력을 Boosting 하기 위한 저장소입니다. 
 
 [스터디 진행]
 - 매주 n요일 저녁 7:30-9:00시에 온라인에서 진행됩니다.
