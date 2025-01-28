@@ -17,5 +17,5 @@
 
 
 ### Ref.
-[책 정보](https://www.yes24.com/Product/Goods/82818767)
+[책 정보](https://www.yes24.com/Product/Goods/82818767) /
 [맥 환경설정](https://moominie.tistory.com/36)
