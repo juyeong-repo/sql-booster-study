@@ -12,18 +12,19 @@
 - 토의내용 및 진행하며 파생된 궁금증은 이슈에 정리합니다.
 
 [1권]
-|week|chapter|발표자|발표내용|
-|---|---|---|---|
-|1주차|CHAP 1,2|라떼|환경설정 / GROUP BY , ROLL UP|
-|2주차|CHAP 3|짱어|JOIN|
-|3주차|CHAP 4|규리|서브쿼리, MERGE, WITH|
-|4주차|CHAP 5|라떼|성능개선|
-|5주차|CHAP 6|라떼,마야|INDEX|
-|6주차|CHAP 7|버블|JOIN과 성능|
-|7주차|CHAP 8|규리,버블|트랜잭션, 락, SELECT MAX, 시퀀스|
-|8주차|CHAP 9|버블|분석함수|
-|9주차|CHAP 10|짱어|페이징|
-|10주차|CHAP 11|마야|WHERE절, SQL 팁|
+| week | chapter | 발표자 | 발표내용 | 링크 |
+|---|---|---|---|---|
+| 1주차 | CHAP 1,2 | 라떼 | 환경설정 / GROUP BY , ROLL UP |  |
+| 2주차 | CHAP 3 | 짱어 | JOIN | [🔗링크](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_2_chap_3_JOIN.md) |
+| 3주차 | CHAP 4 | 규리 | 서브쿼리, MERGE, WITH | [🔗링크](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_3_chap_4_SUBQUERY%2CMERGE%2CWITH.md) |
+| 4주차 | CHAP 5 | 라떼 | 성능개선 | [🔗링크](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_4_chap_5_%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0.md) |
+| 5주차 | CHAP 6 | 라떼,마야 | INDEX | [🔗링크](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_5_chap_6_INDEX.md) |
+| 6주차 | CHAP 7 | 버블 | JOIN과 성능 | [🔗링크1](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_6_chap_7_JOIN%2C%EC%84%B1%EB%8A%A5.md) , [🔗링크2](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_7_chap_7_JOIN%2C%EC%84%B1%EB%8A%A5_2.md)|
+| 7주차 | CHAP 8 | 규리,버블 | 트랜잭션, 락, SELECT MAX, 시퀀스 | [🔗링크1](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_7_chap_8_TRANSACTION%2CLOCK.md), [🔗링크2](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_7_chap_8_SELECT_MAX%2CSEQUENCE%2CROWNUM.md) |
+| 8주차 | CHAP 9 | 버블 | 분석함수 | [🔗링크](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_8_chap_9_%EB%B6%84%EC%84%9D%ED%95%A8%EC%88%98.md) |
+| 9주차 | CHAP 10 | 짱어 | 페이징 | [🔗링크](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_9_chap_10_PAGING.md) |
+| 10주차 | CHAP 11 | 마야 | WHERE절, SQL 팁 | [🔗링크](https://github.com/juyeong-repo/sql-booster-study/blob/main/week_10_charp_11_WHERE%2CSQL.md) |
+
 
 
 ### Ref.
